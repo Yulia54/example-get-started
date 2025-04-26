@@ -1,0 +1,5 @@
+outs:
+- md5: d98805ead971f3fe54c23dbddf2c46b0
+  size: 3701056
+  hash: md5
+  path: train.hdf5
